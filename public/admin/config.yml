@@ -3,7 +3,7 @@ backend:
   branch: main # change this to your branch
   repo: winboy8808/Astro-v # 1、change this to your repo
   site_domain: crownkh.us.ci # 2、change this to your domain
-  base_url: logo.crownkh.us.ci # 3、change this to your prod URL
+  base_url: http://logo.crownkh.us.ci # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
 collections:
